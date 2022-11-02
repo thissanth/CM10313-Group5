@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chartjs-plugin-zoom": "^1.2.1",
+    "firebase": "^8.10.0",
+    "install": "^0.13.0",
+    "npm": "^8.6.0"
+  }
+}
